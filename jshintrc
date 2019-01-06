@@ -1,0 +1,6 @@
+{
+  "unused": false,
+  "eqeqeq": true,
+  "strict": true,
+  "loopfunc": true
+}

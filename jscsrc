@@ -1,0 +1,13 @@
+{
+  "maximumLineLength": 80,
+  "validateQuoteMarks": true,
+  "requireCurlyBraces": [
+    "if",
+    "else",
+    "for",
+    "while",
+    "do",
+    "try",
+    "catch"
+  ]
+}
